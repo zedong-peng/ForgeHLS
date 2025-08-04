@@ -11,7 +11,7 @@ A Large-Scale, Open-Source Dataset for High-Level Synthesis
 The following diagram provides a comprehensive overview of the ForgeHLS workflow and dataset construction process:
 
 <div align="center">
-  <img src="docs/ForgeHLS_workflow.drawio.png" alt="ForgeHLS Workflow Diagram" style="max-width: 100%; height: auto;">
+  <img src="docs/ForgeHLS_workflow.png" alt="ForgeHLS Workflow Diagram" style="max-width: 100%; height: auto;">
 </div>
 
 ## Repository Structure
