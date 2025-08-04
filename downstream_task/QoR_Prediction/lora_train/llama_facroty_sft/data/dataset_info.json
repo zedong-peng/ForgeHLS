@@ -1,0 +1,90 @@
+{
+  "forgehls_qor_prediction_5_sample": {
+    "file_name": "forgehls_qor_prediction_5_sample.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "forgehls_qor_prediction_test": {
+    "file_name": "forgehls_qor_prediction_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "forgehls_qor_prediction_train": {
+    "file_name": "forgehls_qor_prediction_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "HLSFactory_qor_prediction_test": {
+    "file_name": "HLSFactory_qor_prediction_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "HLSFactory_qor_prediction_train": {
+    "file_name": "HLSFactory_qor_prediction_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "HLSyn_qor_prediction_test": {
+    "file_name": "HLSyn_qor_prediction_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "HLSyn_qor_prediction_train": {
+    "file_name": "HLSyn_qor_prediction_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "forgehls_synthetic_qor_prediction_test": {
+    "file_name": "forgehls_synthetic_qor_prediction_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "forgehls_synthetic_qor_prediction_train": {
+    "file_name": "forgehls_synthetic_qor_prediction_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "HLSDataset_qor_prediction_test": {
+    "file_name": "HLSDataset_qor_prediction_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "HLSDataset_qor_prediction_train": {
+    "file_name": "HLSDataset_qor_prediction_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
