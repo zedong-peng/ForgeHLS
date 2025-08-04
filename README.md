@@ -1,6 +1,11 @@
 # ForgeHLS
 A Large-Scale, Open-Source Dataset for High-Level Synthesis
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/zedong-peng/ForgeHLS)
+[![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/zedongpeng/forgehls)
+[![Paper](https://img.shields.io/badge/arXiv-2507.03255-red)](https://arxiv.org/abs/2507.03255)
+[![GitBook](https://img.shields.io/badge/GitBook-Documentation-green)](https://zeju.gitbook.io/lcm-team)
+
 ## Repository Structure
 
 ```
@@ -22,7 +27,7 @@ README.md                          # This file
 
 The json format dataset is located in `code/forgehls_dataset_json/` and contains: For detailed dataset format information, see `code/forgehls_dataset_json/README.md`.
 
-The full dataset and all related artifacts will be released on [Hugging Face/ForgeHLS](https://huggingface.co/datasets/zedongpeng/forgehls), with official hosting support provided by the Hugging Face team upon request for extended storage to accommodate large-scale benchmarks.
+The full dataset and all related artifacts are available on [huggingface/ForgeHLS](https://huggingface.co/datasets/zedongpeng/forgehls), with official hosting support provided by the Hugging Face team upon request for extended storage to accommodate large-scale benchmarks.
 
 
 ### Prerequisites
@@ -54,3 +59,7 @@ If you use ForgeHLS in your research, please cite our paper:
     primaryClass={cs.AR}
 }
 ```
+
+## Team's Other Work
+
+For more information about ForgeHLS and other datasets from our team (ForgeEDA, DeepCircuitX, and ForgeHLS), please visit our [team's GitBook](https://zeju.gitbook.io/lcm-team).
