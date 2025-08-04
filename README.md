@@ -6,10 +6,18 @@ A Large-Scale, Open-Source Dataset for High-Level Synthesis
 [![Paper](https://img.shields.io/badge/arXiv-2507.03255-red)](https://arxiv.org/abs/2507.03255)
 [![GitBook](https://img.shields.io/badge/GitBook-Documentation-green)](https://zeju.gitbook.io/lcm-team)
 
+## ForgeHLS Workflow
+
+The following diagram provides a comprehensive overview of the ForgeHLS workflow and dataset construction process:
+
+<div align="center">
+  <img src="docs/ForgeHLS_workflow.drawio.png" alt="ForgeHLS Workflow Diagram" style="max-width: 100%; height: auto;">
+</div>
+
 ## Repository Structure
 
 ```
-code/
+src/
 ├── forgehls_dataset_json/          # ForgeHLS dataset in JSON format
 │   ├── data_of_designs_forgehls_with_strategy_formatted.json.gz
 │   └── README.md                   # Dataset format documentation
