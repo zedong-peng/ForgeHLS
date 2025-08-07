@@ -17,7 +17,7 @@ The following diagram provides a comprehensive overview of the ForgeHLS workflow
 ## Repository Structure
 
 ```
-src/
+source_code/
 ├── forgehls_dataset_json/          # ForgeHLS dataset in JSON format
 │   ├── data_of_designs_forgehls_with_strategy_formatted.json.gz
 │   └── README.md                   # Dataset format documentation
