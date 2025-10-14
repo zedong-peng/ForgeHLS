@@ -37,6 +37,9 @@ The json format dataset is located in `code/forgehls_dataset_json/` and contains
 
 The full dataset and all related artifacts are available on [huggingface/ForgeHLS](https://huggingface.co/datasets/zedongpeng/forgehls), with official hosting support provided by the Hugging Face team upon request for extended storage to accommodate large-scale benchmarks.
 
+## ForgeHLS-benchmark
+
+[ForgeHLS-benchmark](https://github.com/zedong-peng/ForgeHLS-benchmark) contains 80 representative and structurally diverse C++ files out of ForgeHLS.
 
 ### Prerequisites
 
